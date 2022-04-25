@@ -15,5 +15,5 @@ export const Int = {
     ? // React 16.x.x
       '_reactInternalFiber'
     : // React 17.x.x
-      '_reactInternals',
+      '_reactInternalFiber',
 };
